@@ -1,7 +1,7 @@
 import { router } from "expo-router";
 import Lottie from "lottie-react";
 import { useEffect, useState } from "react";
-import { Text, TouchableOpacity, View } from "react-native";
+import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 
 export default function SpalshScreen()
 {
